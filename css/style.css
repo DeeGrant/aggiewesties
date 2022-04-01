@@ -1,0 +1,25 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+html {
+    color: rgb(137, 69, 78);
+    font-size: calc(24px + 1vw);
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:link, a:visited {
+    color: rgb(137, 69, 78);
+    text-decoration: none;
+}
+a:hover {
+    color: rgba(137, 69, 78, .8);
+}
+
+@media screen and (min-width: 450px) {
+    html {
+        font-size: calc(20px + 2vw);
+    }
+}
