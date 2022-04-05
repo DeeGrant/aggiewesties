@@ -1,5 +1,5 @@
 # Aggie West Coast Swing Dance Club
-Aggie Westies' dance group website.
+Aggie Westies' dance group website. Currently a work-in-progress.
 
 [Demo site](https://aggiewesties.netlify.com)
 
